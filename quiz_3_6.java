@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quiz3_6 {
+public class quiz_3_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] unit = {50000,10000,1000,500,50,10,1};
